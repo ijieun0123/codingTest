@@ -15,8 +15,8 @@ const n = 3;
 const k = 2;
 
 var combine = function (n, k) {
-  let numsArr = Array.from({ length: n }, (_, i) => i + 1); // [1, 2, 3 ... n] 배열 생성
-  let result = [];
+  const numsArr = Array.from({ length: n }, (_, i) => i + 1); // [1, 2, 3 ... n] 배열 생성
+  const result = [];
 
   const dfs = (pickArr, start) => {
     if (pickArr.length == k) {
