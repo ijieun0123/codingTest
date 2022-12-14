@@ -20,7 +20,7 @@ var combine = function (n, k) {
 
   const dfs = (pickArr, start) => {
     if (pickArr.length == k) {
-      // k개를 다 뽑았을 경우
+      // k개를 다 뽑았을 경우 => 재귀호출 종료
       result.push(Array.from(pickArr));
       return;
     }
@@ -28,7 +28,7 @@ var combine = function (n, k) {
     for (let i = start; i < numsArr.length; i++) {
       pickArr.push(numsArr[i]);
       dfs(pickArr, numsArr[i]);
-      pickArr.pop(); // k개를 다 뽑았을 경우, pop해서 다시 백트래킹
+      pickArr.pop(); // k개를 다 뽑았을 경우, => pop 해서 다시 백트래킹
     }
   };
 
