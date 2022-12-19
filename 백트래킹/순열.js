@@ -12,6 +12,9 @@
 // - DFS 탐색
 // - 선택 취소 ( 타겟 되돌아가기 )
 
+// * 주의사항
+// - 주어진 수 ( 배열 ) 중에서 따로 고를 수가 없는 수식.
+
 function permutate(arr) {
   const result = [];
 
