@@ -2,6 +2,13 @@
 
 <br>
 
+## 참고 영상
+
+[조합 강의](https://www.youtube.com/watch?v=HYKpunR1Nto)<br>
+[순열 강의](https://www.youtube.com/watch?v=0tcgYHU8IIs&t=15s)
+
+<br>
+
 ## 정리
 
 <pre>
