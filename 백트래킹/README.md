@@ -1,5 +1,7 @@
 # 백트래킹
 
+<br>
+
 ## 정리
 
 <pre>
@@ -7,7 +9,6 @@
 * 조합 / 순열 / 중복조합 / 중복순열 중 어떤 것인지 파악한 다음, 공식을 적용한다.
 </pre>
 
-<br>
 <br>
 
 ### 조합 ( 순서X, 오름차순 || 내림차순 )
@@ -20,7 +21,6 @@ dfs(start, pickArr);
 [N과 M (6)](<https://github.com/ijieun0123/codingTest/blob/main/%EB%B0%B1%ED%8A%B8%EB%9E%98%ED%82%B9/15655_N%EA%B3%BC_M(6).md>)
 
 <br>
-<br>
 
 ### 순열 ( 순서O, 오름차순 || 내림차순 )
 
@@ -32,7 +32,6 @@ dfs(pickArr);
 [N과 M (5)](<https://github.com/ijieun0123/codingTest/blob/main/%EB%B0%B1%ED%8A%B8%EB%9E%98%ED%82%B9/15654_N%EA%B3%BC_M(5).md>)
 
 <br>
-<br>
 
 ### 중복조합 ( 순서X )
 
@@ -43,7 +42,6 @@ dfs(start, pickArr);
 [N과 M (4)](<https://github.com/ijieun0123/codingTest/blob/main/%EB%B0%B1%ED%8A%B8%EB%9E%98%ED%82%B9/15652_N%EA%B3%BC_M(4).md>)<br>
 [N과 M (8)](<https://github.com/ijieun0123/codingTest/blob/main/%EB%B0%B1%ED%8A%B8%EB%9E%98%ED%82%B9/15657_N%EA%B3%BC_M(8).md>)
 
-<br>
 <br>
 
 ### 중복순열 ( 순서O )
