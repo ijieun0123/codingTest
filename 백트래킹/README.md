@@ -25,7 +25,8 @@ dfs(start, pickArr);
 ```
 
 [N과 M (2)](<https://github.com/ijieun0123/codingTest/blob/main/%EB%B0%B1%ED%8A%B8%EB%9E%98%ED%82%B9/15650_N%EA%B3%BC_M(2).md>)<br>
-[N과 M (6)](<https://github.com/ijieun0123/codingTest/blob/main/%EB%B0%B1%ED%8A%B8%EB%9E%98%ED%82%B9/15655_N%EA%B3%BC_M(6).md>)
+[N과 M (6)](<https://github.com/ijieun0123/codingTest/blob/main/%EB%B0%B1%ED%8A%B8%EB%9E%98%ED%82%B9/15655_N%EA%B3%BC_M(6).md>)<br>
+[N과 M (10)](<https://github.com/ijieun0123/codingTest/blob/main/%EB%B0%B1%ED%8A%B8%EB%9E%98%ED%82%B9/15664_N%EA%B3%BC_M(10).md>)
 
 <br>
 
