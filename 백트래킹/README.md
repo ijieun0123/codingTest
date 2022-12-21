@@ -18,7 +18,7 @@
 
 <br>
 
-### 조합 ( 순서X, 오름차순 || 내림차순 )
+### 조합 ( 순서X [ 오름차순 || 내림차순 ] )
 
 ```js
 dfs(start, pickArr);
@@ -30,7 +30,7 @@ dfs(start, pickArr);
 
 <br>
 
-### 순열 ( 순서O, 오름차순 || 내림차순 )
+### 순열 ( 순서O )
 
 ```js
 dfs(pickArr);
@@ -42,18 +42,19 @@ dfs(pickArr);
 
 <br>
 
-### 중복조합 ( 순서X )
+### 중복조합 ( 순서X [ 오름차순 || 내림차순 ], 같은 수를 여러번 골라도 됨 )
 
 ```js
 dfs(start, pickArr);
 ```
 
 [N과 M (4)](<https://github.com/ijieun0123/codingTest/blob/main/%EB%B0%B1%ED%8A%B8%EB%9E%98%ED%82%B9/15652_N%EA%B3%BC_M(4).md>)<br>
-[N과 M (8)](<https://github.com/ijieun0123/codingTest/blob/main/%EB%B0%B1%ED%8A%B8%EB%9E%98%ED%82%B9/15657_N%EA%B3%BC_M(8).md>)
+[N과 M (8)](<https://github.com/ijieun0123/codingTest/blob/main/%EB%B0%B1%ED%8A%B8%EB%9E%98%ED%82%B9/15657_N%EA%B3%BC_M(8).md>)<br>
+[N과 M (12)](<https://github.com/ijieun0123/codingTest/blob/main/%EB%B0%B1%ED%8A%B8%EB%9E%98%ED%82%B9/15666_N%EA%B3%BC_M(12).md>)
 
 <br>
 
-### 중복순열 ( 순서O )
+### 중복순열 ( 순서O, 같은 수를 여러번 골라도 됨 )
 
 ```js
 dfs(pickArr);
