@@ -36,7 +36,8 @@ dfs(pickArr);
 ```
 
 [N 과 M (1)](<https://github.com/ijieun0123/codingTest/blob/main/%EB%B0%B1%ED%8A%B8%EB%9E%98%ED%82%B9/15649_N%EA%B3%BC_M(1).md>)<br>
-[N과 M (5)](<https://github.com/ijieun0123/codingTest/blob/main/%EB%B0%B1%ED%8A%B8%EB%9E%98%ED%82%B9/15654_N%EA%B3%BC_M(5).md>)
+[N과 M (5)](<https://github.com/ijieun0123/codingTest/blob/main/%EB%B0%B1%ED%8A%B8%EB%9E%98%ED%82%B9/15654_N%EA%B3%BC_M(5).md>)<br>
+[N과 M (9)](<https://github.com/ijieun0123/codingTest/blob/main/%EB%B0%B1%ED%8A%B8%EB%9E%98%ED%82%B9/15663_N%EA%B3%BC_M(9).md>)
 
 <br>
 
